@@ -1,4 +1,4 @@
-{ "parent": "minecraft:block/column_sides",
+{ "parent": "mekanism:block/column_sides",
   "textures": {
     "0": "mekanism:block/deepslate_ores/osmium/sides/0"
   }
